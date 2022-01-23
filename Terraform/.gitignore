@@ -1,0 +1,5 @@
+#Ignore файлы с расширением .txt в каталоге teraform 
+Terraform/**/*.txt
+
+#игнорировать все в picture
+piture/
